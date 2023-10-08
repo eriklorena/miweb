@@ -15,10 +15,3 @@ Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora architecto rei
 Iste aperiam placeat totam voluptate?
 -Paso 4
 
-#SuBtitulo
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempora architecto reiciendis eum sapiente, explicabo quos error, quam enim cum laborum itaque voluptate aut repudiandae velit.
-Iste aperiam placeat totam voluptate?
-
--Item
--Item
--Item
